@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amynaff
-- 👀 I’m interested in Web Development,SaaS,LLMs, Bitcoin Development, and UX/UI design. 
+- 👀 I’m interested in Web Development, SaaS, LLMs, Bitcoin Development, and UX/UI design. 
 - 🌱 I’m currently launching a SaaS company. Also enjoy poking around Figma and WebFlow. 
  💞️ 
 
